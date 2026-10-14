@@ -1,0 +1,8 @@
+Reformat code (mostly fixing includes, moving files out of core, entitymanager inside scene...)
+Mesh importing (OBJ, FBX, GLTF, etc.)
+Shadows
+Collisions
+
+Fix overall ui code / hierarchy mostly
+Implement hierarchy transforms
+Add spot lights support

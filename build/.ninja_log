@@ -1,0 +1,20 @@
+# ninja log v7
+56	215	8063771824878526	engine/src/core/CMakeFiles/core.dir/input.cpp.obj	68022fe5b833135b
+27	602	8063771824598526	dependencies/CMakeFiles/imguizmo.dir/include/imguizmo/ImGuizmo.cpp.obj	50000e7cfa298252
+33	626	8063771824658507	dependencies/CMakeFiles/imgui.dir/include/imgui/imgui_tables.cpp.obj	297b10fcf2c2309f
+38	632	8063771824698520	dependencies/CMakeFiles/imgui.dir/include/imgui/imgui_demo.cpp.obj	9b33d04f3e3d811d
+25	654	8063771824568516	dependencies/CMakeFiles/glad.dir/glad.c.obj	ea532ccd9c21b1fb
+43	662	8063771824758528	dependencies/CMakeFiles/imgui.dir/include/imgui/backends/imgui_impl_opengl3.cpp.obj	f564c0c8a912b1b4
+31	739	8063771824638528	dependencies/CMakeFiles/imgui.dir/include/imgui/imgui_draw.cpp.obj	a40b3dee9caabd42
+35	852	8063771824678507	dependencies/CMakeFiles/imgui.dir/include/imgui/imgui_widgets.cpp.obj	da8d1a326ee66f1d
+655	855	8063771830878537	dependencies/glad.lib	e6323424f214b00d
+40	881	8063771824728520	dependencies/CMakeFiles/imgui.dir/include/imgui/backends/imgui_impl_glfw.cpp.obj	bb0123f8fda86ae3
+852	910	8063771832848518	engine/CMakeFiles/engine.dir/src/dummy.cpp.obj	1f0c0bf830d8d724
+856	950	8063771832878532	dependencies/imguizmo.lib	94e6103d76486611
+29	1400	8063771824618519	dependencies/CMakeFiles/imgui.dir/include/imgui/imgui.cpp.obj	995625cdd7217bed
+1400	1506	8063771838328530	dependencies/imgui.lib	5dce64ccd813401b
+53	2017	8063771824858533	engine/src/core/CMakeFiles/core.dir/types.cpp.obj	57ae2ed93430863c
+216	2253	8063771826488535	engine/src/world/CMakeFiles/world.dir/world.cpp.obj	2b0fe60eb0d5713e
+626	2563	8063771830608522	engine/src/game/CMakeFiles/game.dir/game.cpp.obj	a55184249f254ddc
+633	3033	8063771830648526	engine/src/shaders/CMakeFiles/shaders.dir/shaders.cpp.obj	ae2fd65070d617d5
+663	3338	8063771830948540	engine/src/renderer/CMakeFiles/renderer.dir/renderer.cpp.obj	48440269a71f9e59

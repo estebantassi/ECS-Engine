@@ -1,0 +1,17 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/admin/Desktop/ECS Copy/build/cmake_install.cmake",
+		"C:/Users/admin/Desktop/ECS Copy/build/engine/cmake_install.cmake",
+		"C:/Users/admin/Desktop/ECS Copy/build/engine/src/renderer/cmake_install.cmake",
+		"C:/Users/admin/Desktop/ECS Copy/build/engine/src/shaders/cmake_install.cmake",
+		"C:/Users/admin/Desktop/ECS Copy/build/engine/src/game/cmake_install.cmake",
+		"C:/Users/admin/Desktop/ECS Copy/build/engine/src/player/cmake_install.cmake",
+		"C:/Users/admin/Desktop/ECS Copy/build/engine/src/world/cmake_install.cmake",
+		"C:/Users/admin/Desktop/ECS Copy/build/engine/src/core/cmake_install.cmake",
+		"C:/Users/admin/Desktop/ECS Copy/build/engine/src/ui/cmake_install.cmake",
+		"C:/Users/admin/Desktop/ECS Copy/build/engine/src/scene/cmake_install.cmake",
+		"C:/Users/admin/Desktop/ECS Copy/build/dependencies/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
